@@ -1,0 +1,1 @@
+This is a machine learning project as part of college curriculum that predicts the price of a used vehical based on various factors, We worked on a kaggle dataset that had various independent various that were essential in prediction used car prices
